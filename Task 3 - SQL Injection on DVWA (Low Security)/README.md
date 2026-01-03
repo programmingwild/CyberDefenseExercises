@@ -211,7 +211,7 @@ To prevent SQL Injection attacks:
 
 * **sql_injection_exploit.sh** – Script demonstrating the SQL Injection attack
 * **Screenshots/** – DVWA setup, security level configuration, payload injection, and output results
-* **Task 3 Demo Video.mp4** – Screen recording of the SQL Injection process
+* **Exploiting SQL Injection in DVWA (Low Security).mp4** – Screen recording of the SQL Injection process
 * **README.md** – Documentation explaining the attack and vulnerability
 
 ---
@@ -221,4 +221,5 @@ To prevent SQL Injection attacks:
 This task demonstrated how SQL Injection vulnerabilities can compromise web application security when input validation is not enforced.
 By exploiting the vulnerability in DVWA, multiple database records were retrieved without proper authorization.
 This exercise highlights the importance of secure coding practices and proper input handling in web applications.
+
 
