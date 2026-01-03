@@ -71,7 +71,7 @@ bash ufw_configuration.sh
 ## 5. Files Included
 - **ufw_configuration.sh** – Script containing firewall commands.  
 - **Screenshots/** – UFW enable, allow SSH, deny HTTP, and final status screenshot.  
-- **Task 2 Demo Video.mp4** – Shows the commands being executed.  
+- **Configuring a Basic Firewall Using UFW on Kali Linux.mp4** – Shows the commands being executed.  
 - **README.md** – Explanation of the task and configuration steps.
 
 ---
@@ -80,3 +80,4 @@ bash ufw_configuration.sh
 This task helped me understand how to use UFW to manage basic firewall rules on a Linux system.  
 By enabling the firewall, allowing SSH, and blocking HTTP, I learned how to control which connections are permitted.  
 UFW provides a simple and effective way to improve system security with minimal commands.
+
