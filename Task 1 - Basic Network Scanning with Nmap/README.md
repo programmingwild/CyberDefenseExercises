@@ -82,7 +82,7 @@ All other scanned ports were closed, which means no unnecessary services were ru
 ## 5. Files Included
 - **nmap_scan_results.txt** – Full output from the aggressive Nmap scan.
 - **Screenshots/** – Includes Nmap version check, IP address, basic scan, version scan, and aggressive scan.
-- **Task 1 Demo Video.mp4** – Shows the commands being executed.
+- **How to Perform a Basic Network Scan with Nmap.mp4** – Shows the commands being executed.
 - **README.md** – Explanation of the task and configuration steps.
 
 ---
@@ -91,4 +91,5 @@ All other scanned ports were closed, which means no unnecessary services were ru
 This task helped me understand how different Nmap scan types work and how to read the results.  
 I was able to identify open ports, the services running on those ports, and the operating system information of my system.  
 Overall, the task gave me a better idea of how Nmap is used in real network security assessments.
+
 
